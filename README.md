@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chicken-Disease-Classification-Project
 
 
@@ -12,3 +13,6 @@
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
+=======
+# Chicken-Disease-Classification-Project
+>>>>>>> 17438d42ac8562b13452d81bb8161a4614f39d38
